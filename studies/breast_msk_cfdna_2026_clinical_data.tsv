@@ -1,0 +1,51 @@
+Study ID	Patient ID	Sample ID	Age at DX	ER Status	Gene Panel	HER2 Status	Histologic Grade	Histologic Subtype	Mutation Count	pCR Status	PR Status	RCB	Number of Samples Per Patient	Somatic Status	TMB (nonsynonymous)	Tumor Size	Tumor Stage
+breast_msk_cfdna_2026	BC01-P1	BC01-P1	38	Positive	IMPACT341	Negative	3	IDC-NST	2	No	Negative	III	1	Matched	2.2183106011954474	2.9	T2
+breast_msk_cfdna_2026	BC01-T	BC01-T	38	Positive	IMPACT341	Negative	3	IDC-NST	2	No	Negative	III	1	Matched	2.2183106011954474	2.9	T2
+breast_msk_cfdna_2026	BC01-T2	BC01-T2	38	Positive	IMPACT341	Negative	3	IDC-NST	2	No	Negative	III	1	Matched	2.2183106011954474	2.9	T2
+breast_msk_cfdna_2026	BC02-M	BC02-M	60	Positive	IMPACT341	Positive	3	IDC-NST	1	No	Negative	I	1	Matched	1.1091553005977237	4	T2
+breast_msk_cfdna_2026	BC02-P1	BC02-P1	60	Positive	IMPACT341	Positive	3	IDC-NST	1	No	Negative	I	1	Matched	1.1091553005977237	4	T2
+breast_msk_cfdna_2026	BC02-T	BC02-T	60	Positive	IMPACT341	Positive	3	IDC-NST	1	No	Negative	I	1	Matched	1.1091553005977237	4	T2
+breast_msk_cfdna_2026	BC03-P1	BC03-P1	50	Negative	IMPACT341	Negative	3	IDC-NST	2	Yes	Negative	0	1	Matched	2.2183106011954474	2	T2
+breast_msk_cfdna_2026	BC03-T	BC03-T	50	Negative	IMPACT341	Negative	3	IDC-NST	2	Yes	Negative	0	1	Matched	2.2183106011954474	2	T2
+breast_msk_cfdna_2026	BC04-P1	BC04-P1	80	Negative	IMPACT341	Negative	3	IDC-NST	7	No	Negative	II	1	Matched	7.764087104184067	4.4	T2
+breast_msk_cfdna_2026	BC04-T	BC04-T	80	Negative	IMPACT341	Negative	3	IDC-NST	7	No	Negative	II	1	Matched	7.764087104184067	4.4	T2
+breast_msk_cfdna_2026	BC04-T2	BC04-T2	80	Negative	IMPACT341	Negative	3	IDC-NST	7	No	Negative	II	1	Matched	7.764087104184067	4.4	T2
+breast_msk_cfdna_2026	BC05-P1	BC05-P1	55	Negative	IMPACT341	Positive	2	IDC-NST	NA	No	Negative	I	1	Matched	0.0	5.7	T3
+breast_msk_cfdna_2026	BC05-T	BC05-T	55	Negative	IMPACT341	Positive	2	IDC-NST	NA	No	Negative	I	1	Matched	0.0	5.7	T3
+breast_msk_cfdna_2026	BC06-P1	BC06-P1	69	Positive	IMPACT341	Positive	3	IDC-NST	3	Yes	Negative	0	1	Matched	3.3274659017931714	2.8	T2
+breast_msk_cfdna_2026	BC06-T	BC06-T	69	Positive	IMPACT341	Positive	3	IDC-NST	6	Yes	Negative	0	1	Matched	6.654931803586343	2.8	T2
+breast_msk_cfdna_2026	BC07-M1	BC07-M1	28	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.1	T2
+breast_msk_cfdna_2026	BC07-M2	BC07-M2	28	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.1	T2
+breast_msk_cfdna_2026	BC07-P1	BC07-P1	28	Positive	IMPACT341	Negative	2	IDC-NST	1	No	Positive	II	1	Matched	1.1091553005977237	2.1	T2
+breast_msk_cfdna_2026	BC07-T	BC07-T	28	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.1	T2
+breast_msk_cfdna_2026	BC07-T2	BC07-T2	28	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.1	T2
+breast_msk_cfdna_2026	BC08-P1	BC08-P1	47	Positive	IMPACT341	Negative	2	IDC-NST	NA	No	Positive	II	1	Matched	0.0	2.9	T2
+breast_msk_cfdna_2026	BC08-T	BC08-T	47	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.9	T2
+breast_msk_cfdna_2026	BC08-T2	BC08-T2	47	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	2.9	T2
+breast_msk_cfdna_2026	BC09-P1	BC09-P1	45	Positive	IMPACT341	Negative	3	IDC-NST	1	No	Positive	III	1	Matched	1.1091553005977237	3.2	T2 (multifocal)
+breast_msk_cfdna_2026	BC09-T	BC09-T	45	Positive	IMPACT341	Negative	3	IDC-NST	3	No	Positive	III	1	Matched	3.3274659017931714	3.2	T2 (multifocal)
+breast_msk_cfdna_2026	BC09-T2	BC09-T2	45	Positive	IMPACT341	Negative	3	IDC-NST	3	No	Positive	III	1	Matched	3.3274659017931714	3.2	T2 (multifocal)
+breast_msk_cfdna_2026	BC10-M1	BC10-M1	48	Negative	IMPACT341	Negative	3	IDC-NST	4	No	Negative	III	1	Matched	4.436621202390895	6.2	T3
+breast_msk_cfdna_2026	BC10-M2	BC10-M2	48	Negative	IMPACT341	Negative	3	IDC-NST	5	No	Negative	III	1	Matched	5.545776502988619	6.2	T3
+breast_msk_cfdna_2026	BC10-M3	BC10-M3	48	Negative	IMPACT341	Negative	3	IDC-NST	4	No	Negative	III	1	Matched	4.436621202390895	6.2	T3
+breast_msk_cfdna_2026	BC10-P1	BC10-P1	48	Negative	IMPACT341	Negative	3	IDC-NST	8	No	Negative	III	1	Matched	8.87324240478179	6.2	T3
+breast_msk_cfdna_2026	BC10-T2	BC10-T2	48	Negative	IMPACT341	Negative	3	IDC-NST	5	No	Negative	III	1	Matched	5.545776502988619	6.2	T3
+breast_msk_cfdna_2026	BC12-P1	BC12-P1	58	Positive	IMPACT341	Positive	3	IDC-NST	NA	Yes	Positive	0	1	Matched	0.0	2.5	T2
+breast_msk_cfdna_2026	BC12-T	BC12-T	58	Positive	IMPACT341	Positive	3	IDC-NST	4	Yes	Positive	0	1	Matched	4.436621202390895	2.5	T2
+breast_msk_cfdna_2026	BC13-P1	BC13-P1	53	Positive	IMPACT341	Negative	3	IDC-NST	4	Yes	Negative	0	1	Matched	4.436621202390895	3	T4
+breast_msk_cfdna_2026	BC13-T	BC13-T	53	Positive	IMPACT341	Negative	3	IDC-NST	4	Yes	Negative	0	1	Matched	4.436621202390895	3	T4
+breast_msk_cfdna_2026	BC14-P1	BC14-P1	40	Positive	IMPACT341	Negative	2	IDC-NST	1	No	Positive	II	1	Matched	1.1091553005977237	4.3	T2
+breast_msk_cfdna_2026	BC14-T2	BC14-T2	40	Positive	IMPACT341	Negative	2	IDC-NST	1	No	Positive	II	1	Matched	1.1091553005977237	4.3	T2
+breast_msk_cfdna_2026	BC15-P1	BC15-P1	58	Positive	IMPACT341	Negative	2	IDC-NST	NA	No	Positive	II	1	Matched	0.0	3.9	T4
+breast_msk_cfdna_2026	BC15-T2	BC15-T2	58	Positive	IMPACT341	Negative	2	IDC-NST	2	No	Positive	II	1	Matched	2.2183106011954474	3.9	T4
+breast_msk_cfdna_2026	BC16-P1	BC16-P1	56	Negative	IMPACT341	Negative	3	IDC-NST	3	Yes	Negative	0	1	Matched	3.3274659017931714	3.1	T2
+breast_msk_cfdna_2026	BC16-T	BC16-T	56	Negative	IMPACT341	Negative	3	IDC-NST	2	Yes	Negative	0	1	Matched	2.2183106011954474	3.1	T2
+breast_msk_cfdna_2026	BC17-P1	BC17-P1	58	Negative	IMPACT341	Positive	3	IDC-NST	3	Yes	Negative	0	1	Matched	3.3274659017931714	2.1	T2 (multifocal)
+breast_msk_cfdna_2026	BC17-T	BC17-T	58	Negative	IMPACT341	Positive	3	IDC-NST	4	Yes	Negative	0	1	Matched	4.436621202390895	2.1	T2 (multifocal)
+breast_msk_cfdna_2026	BC18-P1	BC18-P1	47	Positive	IMPACT341	Negative	3	IDC-NST	1	No	Positive	III	1	Matched	1.1091553005977237	5	T2
+breast_msk_cfdna_2026	BC18-T2	BC18-T2	47	Positive	IMPACT341	Negative	3	IDC-NST	4	No	Positive	III	1	Matched	4.436621202390895	5	T2
+breast_msk_cfdna_2026	BC20-P1	BC20-P1	70	Positive	IMPACT341	Negative	2	IDC-NST	NA	No	Positive	III	1	Matched	0.0	7	T4
+breast_msk_cfdna_2026	BC20-T1	BC20-T1	70	Positive	IMPACT341	Negative	2	IDC-NST	5	No	Positive	III	1	Matched	5.545776502988619	7	T4
+breast_msk_cfdna_2026	BC20-T2	BC20-T2	70	Positive	IMPACT341	Negative	2	IDC-NST	6	No	Positive	III	1	Matched	6.654931803586343	7	T4
+breast_msk_cfdna_2026	BC21-P1	BC21-P1	46	Positive	IMPACT341	Negative	3	IDC-NST	3	No	Positive	III	1	Matched	3.3274659017931714	4	T2
+breast_msk_cfdna_2026	BC21-T2	BC21-T2	46	Positive	IMPACT341	Negative	3	IDC-NST	3	No	Positive	III	1	Matched	3.3274659017931714	4	T2

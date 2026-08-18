@@ -1,0 +1,20 @@
+Study ID	Patient ID	Sample ID	Cancer Type	Cancer Type Detailed	ER Status	Gene Panel	Neoplasm Histologic Grade	HER2 Status	Mutation Count	Oncotree Code	PR Status	Number of Samples Per Patient	Sample Type	Somatic Status	TMB (nonsynonymous)	Tumor Site	Tumor Size (cm)
+mbc_msk_2021	MBC102	MBC102T	Breast Cancer	Metaplastic Breast Cancer	Negative	WES	3	Negative	55	MBC	Negative	1	Primary	Matched	1.83333333333	Breast	3.0
+mbc_msk_2021	MBC104	MBC104T	Breast Cancer	Metaplastic Breast Cancer	Negative	WES	3	Negative	98	MBC	Negative	1	Primary	Matched	3.26666666667	Breast	1.1
+mbc_msk_2021	MBC108	MBC108T	Breast Cancer	Metaplastic Breast Cancer	Negative	WES	3	Negative	112	MBC	Negative	1	Primary	Matched	3.73333333333	Breast	3.0
+mbc_msk_2021	MBC114	MBC114T	Breast Cancer	Metaplastic Breast Cancer	Negative	WES	3	Negative	53	MBC	Negative	1	Primary	Matched	1.76666666667	Breast	1.4
+mbc_msk_2021	MBC117	MBC117T	Breast Cancer	Metaplastic Breast Cancer	Negative	WES	3	Negative	126	MBC	Negative	1	Primary	Matched	4.16666666667	Breast	1.6
+mbc_msk_2021	MT09	MT09	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	2	MBC	Negative	1	Primary	Matched	1.72939618997	Breast	2.2
+mbc_msk_2021	MT16	MT16	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	8	MBC	Negative	1	Primary	Matched	6.91758475987	Breast	5.2
+mbc_msk_2021	MT20	MT20	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	2	Negative	4	MBC	Negative	1	Primary	Matched	3.45879237993	Breast	5.8
+mbc_msk_2021	MT26	MT26	Breast Cancer	Metaplastic Breast Cancer	NA	IMPACT468	3	NA	4	MBC	NA	1	Primary	Matched	3.45879237993	Breast	NA
+mbc_msk_2021	MT35	MT35	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	7	MBC	Negative	1	Primary	Matched	5.1881885699	Breast	2.3
+mbc_msk_2021	MT45	MT45	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	5	MBC	Negative	1	Primary	Matched	3.45879237993	Breast	NA
+mbc_msk_2021	MT46	MT46	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	2	MBC	Negative	1	Primary	Matched	1.72939618997	Breast	3.1
+mbc_msk_2021	MT51	MT51	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	3	MBC	Negative	1	Primary	Matched	2.59409428495	Breast	3
+mbc_msk_2021	MT59	MT59	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	2	MBC	Negative	1	Primary	Matched	0.864698094984	Breast	1.7
+mbc_msk_2021	MT62	MT62	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	6	MBC	Negative	1	Primary	Matched	5.1881885699	Breast	2.5
+mbc_msk_2021	MT69	MT69	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	4	MBC	Negative	1	Primary	Matched	3.45879237993	Breast	3.9
+mbc_msk_2021	MT70	MT70	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	3	MBC	Negative	1	Primary	Matched	2.59409428495	Breast	2.9
+mbc_msk_2021	MT72	MT72	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT468	3	Negative	2	MBC	Negative	1	Primary	Matched	1.72939618997	Breast	4.5
+mbc_msk_2021	MT82	MT82	Breast Cancer	Metaplastic Breast Cancer	Negative	IMPACT341	3	Negative	5	MBC	Negative	1	Primary	Matched	5.54577650299	Breast	2.1

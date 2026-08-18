@@ -1,0 +1,104 @@
+Study ID	Patient ID	Sample ID	Diagnosis Age	Cancer Type	Cancer Type Detailed	Country	ER Status	Neoplasm Histologic Grade	HER2 Amplification Status	HER2 Status	Menopause Status	Mutation Count	Nonsilent Mutation Rate	Oncotree Code	Ploidy	PR Status	Purity	Number of Samples Per Patient	Sex	Silent Mutation Rate	Somatic Status	Stage	Subtype	TMB (nonsynonymous)
+brca_broad	BR-M-005	BR-M-005	66	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	Yes	Positive	NA	18	0.68	IDC	2.08	Negative	0.59	1	Female	0.17	Matched	II	HER2	0.666666666667
+brca_broad	BR-M-026	BR-M-026	54	Breast Cancer	Infiltrating Tubular Carcinoma	Mexico	Positive	I	No	Negative	NA	28	0.95	BRCA	2.01	Positive	0.44	1	Female	0.51	Matched	III	Luminal A	0.933333333333
+brca_broad	BR-M-027	BR-M-027	51	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	52	1.85	IDC	3.12	Negative	0.31	1	Female	0.45	Matched	II	Luminal A	1.73333333333
+brca_broad	BR-M-028	BR-M-028	79	Breast Cancer	Mixed Carcinoma	Mexico	Positive	I	No	Negative	NA	27	0.85	BRCA	2.18	Positive	0.58	1	Female	0.2	Matched	II	Luminal A	0.866666666667
+brca_broad	BR-M-030	BR-M-030	89	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	21	0.8	IDC	2.04	Negative	0.5	1	Female	0.24	Matched	II	Luminal A	0.7
+brca_broad	BR-M-034	BR-M-034	66	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	I	No	Negative	NA	18	0.62	IDC	NA	Positive	NA	1	Female	0.34	Matched	II	Luminal A	0.6
+brca_broad	BR-M-036	BR-M-036	62	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	I	No	Negative	NA	11	0.41	IDC	2.06	Positive	0.26	1	Female	0.1	Matched	II	Luminal A	0.366666666667
+brca_broad	BR-M-037	BR-M-037	58	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	151	5.25	IDC	NA	Positive	NA	1	Female	1.85	Matched	II	Luminal A	5.06666666667
+brca_broad	BR-M-038	BR-M-038	41	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	No	Negative	NA	15	0.51	IDC	1.9	Positive	0.42	1	Female	0.21	Matched	II	Luminal B	0.433333333333
+brca_broad	BR-M-041	BR-M-041	50	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	No	Negative	NA	62	2.19	IDC	2.03	Positive	0.34	1	Female	0.66	Matched	I	Luminal A	2.06666666667
+brca_broad	BR-M-045	BR-M-045	37	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	No	Negative	NA	102	3.57	IDC	2.67	Negative	0.56	1	Female	1.27	Matched	II	Basal	3.33333333333
+brca_broad	BR-M-047	BR-M-047	78	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	Yes	Positive	NA	63	2.27	IDC	1.91	Negative	0.71	1	Female	0.48	Matched	II	HER2	2.1
+brca_broad	BR-M-048	BR-M-048	37	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	Yes	Positive	NA	11	0.41	IDC	2.03	Negative	0.14	1	Female	0.068	Matched	II	Normal	0.366666666667
+brca_broad	BR-M-050	BR-M-050	47	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	24	0.85	IDC	2.13	Positive	0.63	1	Female	0.24	Matched	II	Luminal A	0.8
+brca_broad	BR-M-055	BR-M-055	52	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	Yes	Positive	NA	65	2.35	IDC	3.44	Negative	0.62	1	Female	0.9	Matched	I	Luminal B	2.2
+brca_broad	BR-M-059	BR-M-059	54	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	16	0.58	IDC	1.98	Positive	0.68	1	Female	0.34	Matched	II	Luminal A	0.566666666667
+brca_broad	BR-M-073	BR-M-073	65	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	Yes	Negative	NA	41	1.52	IDC	3.44	Positive	0.82	1	Female	0.24	Matched	III	Luminal B	1.4
+brca_broad	BR-M-074	BR-M-074	47	Breast Cancer	Mucinous Carcinoma	Mexico	Negative	NA	No	Negative	NA	29	1.06	IMMC	3.88	Positive	0.25	1	Female	0.34	Matched	II	Luminal A	0.966666666667
+brca_broad	BR-M-076	BR-M-076	44	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	Yes	Positive	NA	30	0.99	IDC	1.79	Negative	0.35	1	Female	0.41	Matched	II	HER2	1.0
+brca_broad	BR-M-079	BR-M-079	56	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	50	1.26	IDC	2.12	Negative	0.29	1	Female	0.41	Matched	III	Luminal B	1.7
+brca_broad	BR-M-080	BR-M-080	38	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	No	Negative	NA	15	0.52	IDC	NA	Negative	NA	1	Female	0.17	Matched	II	Normal	0.466666666667
+brca_broad	BR-M-083	BR-M-083	59	Breast Cancer	Infiltrating Lobular Carcinoma	Mexico	Positive	NA	No	Negative	NA	17	0.65	ILC	2	Positive	0.3	1	Female	0.2	Matched	II	Luminal A	0.6
+brca_broad	BR-M-085	BR-M-085	47	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	Yes	Positive	NA	42	0.75	IDC	1.75	Positive	0.2	1	Female	0.034	Matched	II	HER2	1.46666666667
+brca_broad	BR-M-094	BR-M-094	47	Breast Cancer	Mixed Carcinoma	Mexico	Negative	NA	No	Negative	NA	36	0.65	BRCA	1.89	Negative	0.35	1	Female	0.14	Matched	III	Luminal B	1.26666666667
+brca_broad	BR-M-095	BR-M-095	52	Breast Cancer	Infiltrating Lobular Carcinoma	Mexico	Positive	NA	No	Negative	NA	53	1.89	ILC	3.08	Negative	0.54	1	Female	0.62	Matched	I	HER2	1.76666666667
+brca_broad	BR-M-098	BR-M-098	65	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	Yes	Negative	NA	29	0.94	IDC	2.05	Negative	0.54	1	Female	0.2	Matched	I	Luminal A	0.966666666667
+brca_broad	BR-M-105	BR-M-105	39	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	Yes	Negative	NA	22	0.78	IDC	3.78	Positive	0.37	1	Female	0.34	Matched	III	Luminal B	0.733333333333
+brca_broad	BR-M-106	BR-M-106	42	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	24	0.84	IDC	1.94	Positive	0.89	1	Female	0.2	Matched	I	Luminal A	0.8
+brca_broad	BR-M-110	BR-M-110	39	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	47	1.62	IDC	3.59	Negative	0.39	1	Female	0.62	Matched	II	Luminal A	1.56666666667
+brca_broad	BR-M-116	BR-M-116	92	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	No	Negative	NA	101	3.45	IDC	4.17	Negative	0.66	1	Female	1.47	Matched	III	Luminal B	3.36666666667
+brca_broad	BR-M-120	BR-M-120	69	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	29	0.96	IDC	3.75	Positive	0.61	1	Female	0.27	Matched	I	Basal	0.966666666667
+brca_broad	BR-M-121	BR-M-121	48	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	Yes	Negative	NA	26	0.38	IDC	1.94	Positive	0.27	1	Female	0.31	Matched	II	NA	0.933333333333
+brca_broad	BR-M-122	BR-M-122	51	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	No	Negative	NA	30	1.22	IDC	NA	Negative	NA	1	Female	0.39	Matched	II	Basal	1.03333333333
+brca_broad	BR-M-123	BR-M-123	71	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	Yes	Negative	NA	40	1.42	IDC	3.53	Positive	0.65	1	Female	0.57	Matched	II	Luminal B	1.36666666667
+brca_broad	BR-M-126	BR-M-126	63	Breast Cancer	Infiltrating Lobular Carcinoma	Mexico	Positive	NA	No	Negative	NA	28	1	ILC	1.96	Positive	0.64	1	Female	0.14	Matched	II	Luminal B	0.966666666667
+brca_broad	BR-M-129	BR-M-129	53	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	12	0.54	IDC	1.01	Positive	0.4	1	Female	0.14	Matched	II	Luminal A	0.466666666667
+brca_broad	BR-M-150	BR-M-150	49	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	25	0.92	IDC	NA	Positive	NA	1	Female	0.58	Matched	II	Luminal B	0.866666666667
+brca_broad	BR-M-154	BR-M-154	52	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	No	Negative	NA	23	0.78	IDC	1.92	Positive	0.7	1	Female	0.3	Matched	I	Luminal A	0.766666666667
+brca_broad	BR-M-155	BR-M-155	61	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	III	No	Negative	NA	35	1.28	IDC	2.13	Positive	0.67	1	Female	0.24	Matched	II	NA	1.2
+brca_broad	BR-M-158	BR-M-158	56	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	NA	Negative	NA	15	0.54	IDC	NA	Positive	NA	1	Female	0.3	Matched	II	Luminal B	0.5
+brca_broad	BR-M-165	BR-M-165	42	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	16	0.6	IDC	2.06	Positive	0.68	1	Female	0.17	Matched	III	Luminal A	0.533333333333
+brca_broad	BR-M-166	BR-M-166	53	Breast Cancer	Mixed Carcinoma	Mexico	Positive	NA	No	Negative	NA	37	1.41	BRCA	3.04	Positive	0.4	1	Female	0.24	Matched	III	HER2	1.23333333333
+brca_broad	BR-M-167	BR-M-167	48	Breast Cancer	Infiltrating Lobular Carcinoma	Mexico	Positive	NA	NA	Negative	NA	14	0.61	ILC	NA	Positive	NA	1	Female	0.2	Matched	II	Luminal A	0.466666666667
+brca_broad	BR-M-169	BR-M-169	52	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	18	0.61	IDC	2	Positive	0.25	1	Female	0.068	Matched	I	Luminal A	0.566666666667
+brca_broad	BR-M-172	BR-M-172	47	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	Yes	Negative	NA	21	0.71	IDC	3.56	Positive	0.36	1	Female	0.2	Matched	II	Luminal A	0.733333333333
+brca_broad	BR-M-174	BR-M-174	57	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	No	Negative	NA	52	1.74	IDC	NA	Negative	NA	1	Female	0.72	Matched	II	Basal	1.73333333333
+brca_broad	BR-M-184	BR-M-184	44	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	10	0.38	IDC	NA	Positive	NA	1	Female	0.24	Matched	II	Luminal A	0.333333333333
+brca_broad	BR-M-186	BR-M-186	55	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	Yes	Negative	NA	14	0.55	IDC	2.1	Positive	0.54	1	Female	0.069	Matched	II	Luminal B	0.466666666667
+brca_broad	BR-M-189	BR-M-189	65	Breast Cancer	Medullary Breast Carcinoma	Mexico	Negative	NA	No	Negative	NA	47	1.73	BRCA	2.93	Negative	0.29	1	Female	0.58	Matched	III	Basal	1.56666666667
+brca_broad	BR-M-191	BR-M-191	55	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	II	Yes	Positive	NA	234	8.05	IDC	3.69	Negative	0.7	1	Female	2.43	Matched	II	HER2	7.8
+brca_broad	BR-M-192	BR-M-192	59	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	27	0.91	IDC	3.79	Positive	0.5	1	Female	0.2	Matched	III	Luminal A	0.9
+brca_broad	BR-M-193	BR-M-193	43	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Negative	III	Yes	Positive	NA	53	1.92	IDC	1.86	Negative	0.53	1	Female	0.68	Matched	III	HER2	1.8
+brca_broad	BR-M-198	BR-M-198	44	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	18	0.65	IDC	2.12	Positive	0.64	1	Female	0.24	Matched	II	Normal	0.566666666667
+brca_broad	BR-M-200	BR-M-200	42	Breast Cancer	Infiltrating Ductal Carcinoma	Mexico	Positive	II	No	Negative	NA	13	0.51	IDC	2.04	Positive	0.55	1	Female	0.1	Matched	II	Luminal A	0.433333333333
+brca_broad	BR-V-002	BR-V-002	46	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	III	Yes	NA	Premenopausal	75	2.62	IDC	1.95	Negative	0.27	1	Female	0.72	Matched	III	HER2	2.53333333333
+brca_broad	BR-V-003	BR-V-003	60	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	No	NA	Postmenopausal	12	0.44	IDC	NA	NA	NA	1	Female	0.21	Matched	II	NA	0.433333333333
+brca_broad	BR-V-007	BR-V-007	38	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	No	NA	Premenopausal	18	0.61	IDC	2.16	NA	0.23	1	Female	0.17	Matched	III	Normal	0.6
+brca_broad	BR-V-008	BR-V-008	52	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	Yes	NA	Perimenopausal	29	1	IDC	2.01	NA	0.27	1	Female	0.14	Matched	III	HER2	0.966666666667
+brca_broad	BR-V-009	BR-V-009	53	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Positive	III	No	NA	Postmenopausal	59	2.07	IDC	1.99	Positive	0.52	1	Female	0.54	Matched	III	Luminal B	1.96666666667
+brca_broad	BR-V-011	BR-V-011	69	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	NA	NA	No	NA	Postmenopausal	22	0.72	DCIS	1.88	NA	0.7	1	Female	0.17	Matched	II	Luminal A	0.833333333333
+brca_broad	BR-V-012	BR-V-012	42	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	Negative	NA	Yes	NA	Premenopausal	25	0.87	DCIS	3.24	Negative	0.28	1	Female	0.13	Matched	II	HER2	0.833333333333
+brca_broad	BR-V-013	BR-V-013	38	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	Positive	NA	No	NA	Premenopausal	21	0.68	DCIS	3.87	Positive	0.43	1	Female	0.24	Matched	II	Luminal A	0.833333333333
+brca_broad	BR-V-014	BR-V-014	45	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	Yes	NA	Premenopausal	48	1.56	IDC	3.98	Negative	0.73	1	Female	0.68	Matched	II	HER2	1.6
+brca_broad	BR-V-015	BR-V-015	43	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	NA	NA	Yes	NA	Premenopausal	10	0.37	DCIS	2.04	NA	0.22	1	Female	0.1	Matched	II	HER2	0.333333333333
+brca_broad	BR-V-016	BR-V-016	46	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	No	NA	Premenopausal	16	0.51	IDC	1.97	Negative	0.6	1	Female	0.1	Matched	II	Luminal B	0.666666666667
+brca_broad	BR-V-017	BR-V-017	43	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	18	0.67	IDC	3.83	NA	0.33	1	Female	0.035	Matched	II	Luminal A	0.566666666667
+brca_broad	BR-V-018	BR-V-018	34	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	Yes	NA	Premenopausal	13	0.44	IDC	2.12	NA	0.36	1	Female	0.067	Matched	II	Normal	0.433333333333
+brca_broad	BR-V-019	BR-V-019	59	Breast Cancer	Mucinous Carcinoma	Vietnam	NA	NA	No	NA	NA	31	1.05	IMMC	1.97	NA	0.8	1	Female	0.1	Matched	II	Luminal B	1.03333333333
+brca_broad	BR-V-020	BR-V-020	39	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	15	0.54	IDC	2.04	NA	0.76	1	Female	0.1	Matched	II	Luminal A	0.5
+brca_broad	BR-V-021	BR-V-021	48	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Perimenopausal	14	0.51	IDC	2.28	NA	0.61	1	Female	0.1	Matched	II	Luminal B	0.466666666667
+brca_broad	BR-V-022	BR-V-022	40	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	51	1.64	IDC	1.75	NA	0.43	1	Female	0.34	Matched	II	Basal	1.7
+brca_broad	BR-V-023	BR-V-023	40	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	NA	NA	No	NA	Premenopausal	44	1.47	DCIS	1.92	NA	0.28	1	Female	0.38	Matched	II	Luminal A	1.46666666667
+brca_broad	BR-V-024	BR-V-024	49	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	Yes	NA	Premenopausal	26	1	IDC	NA	Negative	NA	1	Female	0.14	Matched	II	HER2	0.9
+brca_broad	BR-V-026	BR-V-026	43	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	Positive	NA	No	NA	Premenopausal	9	0.35	DCIS	3.59	Positive	0.72	1	Female	0.28	Matched	II	Luminal B	0.3
+brca_broad	BR-V-027	BR-V-027	41	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	Yes	NA	Premenopausal	114	4	IDC	1.92	Negative	0.29	1	Female	1.09	Matched	II	HER2	3.8
+brca_broad	BR-V-028	BR-V-028	52	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Perimenopausal	37	1.32	IDC	3.25	NA	0.3	1	Female	0.43	Matched	III	HER2	1.26666666667
+brca_broad	BR-V-030	BR-V-030	58	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	Yes	NA	Postmenopausal	28	0.85	IDC	1.92	NA	0.82	1	Female	0.34	Matched	II	Luminal B	0.966666666667
+brca_broad	BR-V-031	BR-V-031	81	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Postmenopausal	21	0.62	IDC	2.09	NA	0.28	1	Female	0.24	Matched	II	Luminal A	0.766666666667
+brca_broad	BR-V-032	BR-V-032	39	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	20	0.72	IDC	4.05	NA	0.28	1	Female	0.34	Matched	II	Luminal A	0.666666666667
+brca_broad	BR-V-033	BR-V-033	53	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	Yes	NA	Perimenopausal	57	2.24	IDC	3.21	NA	0.2	1	Female	0.76	Matched	III	Normal	1.86666666667
+brca_broad	BR-V-034	BR-V-034	48	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	44	1.54	IDC	NA	NA	NA	1	Female	0.59	Matched	II	Basal	1.46666666667
+brca_broad	BR-V-036	BR-V-036	42	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	57	2.02	IDC	3.81	NA	0.34	1	Female	0.38	Matched	II	Luminal B	1.93333333333
+brca_broad	BR-V-037	BR-V-037	56	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Postmenopausal	76	2.61	IDC	2.08	NA	0.79	1	Female	0.73	Matched	III	Luminal B	2.5
+brca_broad	BR-V-038	BR-V-038	55	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	No	NA	Postmenopausal	12	0.44	IDC	2.28	Negative	0.79	1	Female	0.034	Matched	I	Normal	0.4
+brca_broad	BR-V-039	BR-V-039	38	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	12	0.55	IDC	2.03	NA	0.54	1	Female	0.14	Matched	II	Luminal A	0.466666666667
+brca_broad	BR-V-040	BR-V-040	48	Breast Cancer	Mucinous Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	20	0.72	IMMC	3.96	NA	0.28	1	Female	0.21	Matched	I	NA	0.666666666667
+brca_broad	BR-V-042	BR-V-042	39	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	Yes	NA	Premenopausal	25	0.94	IDC	1.66	NA	0.22	1	Female	0.31	Matched	II	HER2	0.833333333333
+brca_broad	BR-V-043	BR-V-043	70	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Postmenopausal	129	4.46	IDC	1.85	NA	0.71	1	Female	1.15	Matched	II	Basal	4.26666666667
+brca_broad	BR-V-044	BR-V-044	50	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	Positive	NA	No	NA	Perimenopausal	20	0.79	DCIS	NA	Positive	NA	1	Female	0.27	Matched	II	Luminal A	0.666666666667
+brca_broad	BR-V-045	BR-V-045	54	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	Negative	NA	Yes	NA	Postmenopausal	15	0.49	DCIS	2.1	Negative	0.25	1	Female	0.14	Matched	II	Normal	0.5
+brca_broad	BR-V-047	BR-V-047	38	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	Yes	Negative	Premenopausal	11	0.47	IDC	NA	Positive	NA	1	Female	0.1	Matched	I	Luminal A	0.366666666667
+brca_broad	BR-V-048	BR-V-048	49	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Positive	NA	No	NA	Perimenopausal	26	0.98	IDC	2.13	Positive	0.19	1	Female	0.34	Matched	II	Luminal A	0.9
+brca_broad	BR-V-049	BR-V-049	47	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	NA	No	NA	Premenopausal	12	0.44	IDC	2.21	Negative	0.34	1	Female	0.14	Matched	II	NA	0.4
+brca_broad	BR-V-050	BR-V-050	54	Breast Cancer	Ductal Carcinoma In Situ (DCIS)	Vietnam	NA	NA	Yes	NA	Postmenopausal	51	1.85	DCIS	2.05	NA	0.47	1	Female	0.34	Matched	II	Basal	1.7
+brca_broad	BR-V-051	BR-V-051	37	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	NA	No	NA	Premenopausal	10	0.34	IDC	1.63	NA	0.62	1	Female	0.17	Matched	II	Basal	0.333333333333
+brca_broad	BR-V-052	BR-V-052	31	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	No	NA	Premenopausal	28	0.96	IDC	2.08	NA	0.19	1	Female	0.38	Matched	III	Luminal B	0.933333333333
+brca_broad	BR-V-054	BR-V-054	40	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	No	NA	Premenopausal	9	0.31	IDC	1.94	NA	0.67	1	Female	0.31	Matched	II	Luminal A	0.266666666667
+brca_broad	BR-V-060	BR-V-060	57	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	Yes	NA	Postmenopausal	54	1.64	IDC	2.27	NA	0.34	1	Female	0.82	Matched	II	Normal	1.83333333333
+brca_broad	BR-V-064	BR-V-064	41	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	No	NA	Premenopausal	16	0.67	IDC	2.07	NA	0.34	1	Female	0.07	Matched	II	Luminal A	0.6
+brca_broad	BR-V-067	BR-V-067	55	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	NA	III	Yes	NA	Postmenopausal	104	3.63	IDC	3.25	NA	0.59	1	Female	1.41	Matched	II	HER2	3.5
+brca_broad	BR-V-069	BR-V-069	42	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	III	No	NA	Premenopausal	12	0.43	IDC	NA	Negative	NA	1	Female	0.11	Matched	II	Basal	0.4
+brca_broad	BR-V-070	BR-V-070	35	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	III	Yes	NA	Premenopausal	23	0.82	IDC	2.31	Negative	0.28	1	Female	0.17	Matched	II	Basal	0.766666666667
+brca_broad	BR-V-071	BR-V-071	45	Breast Cancer	Infiltrating Ductal Carcinoma	Vietnam	Negative	III	No	NA	Premenopausal	39	1.41	IDC	1.99	Negative	0.3	1	Female	0.34	Matched	II	Basal	1.3

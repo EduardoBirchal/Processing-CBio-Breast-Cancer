@@ -1,0 +1,60 @@
+Study ID	Patient ID	Sample ID	Biopsy Site	Best Response	Estrogen Receptor Status	HER2 Status	Response Phenotype	Progesterone Receptor Status	Cancer Type	Cancer Type Detailed	Mutation Count	Oncotree Code	Ploidy	Purity	Number of Samples Per Patient	Somatic Status	TMB (nonsynonymous)	Treatment Duration (Days)
+brca_dfci_2020	177_Prospective1	177_Prospective1	Liver	Stable	Positive	Negative	Intrinsic Resistance	Equivocal	Breast Cancer	Invasive Breast Carcinoma	59	BRCA	3.05	0.46	1	Matched	1.966666667	121
+brca_dfci_2020	185_T1	185_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	114	BRCA	2.1	0.84	1	Matched	3.8	151
+brca_dfci_2020	191_T1	191_T1	Skin	Stable	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	92	BRCA	2.89	0.64	1	Matched	3.066666667	120
+brca_dfci_2020	195_T1	195_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	30	BRCA	4.33	0.58	1	Matched	1	122
+brca_dfci_2020	260_T1	260_T1	Breast	Response	Positive	Negative	Sensitive	Equivocal	Breast Cancer	Invasive Breast Carcinoma	722	BRCA	1.94	0.33	1	Matched	24.06666667	882
+brca_dfci_2020	290_T2	290_T2	Regional Lymph Node	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	69	BRCA	1.98	0.05	1	Matched	2.3	91
+brca_dfci_2020	292_T1	292_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	214	BRCA	1.85	0.82	1	Matched	7.133333333	66
+brca_dfci_2020	294_T2	294_T2	Liver	Stable	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	64	BRCA	1.94	0.19	1	Matched	2.133333333	125
+brca_dfci_2020	295_T1	295_T1	Liver	Response	Positive	Negative	Acquired Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	180	BRCA	1.91	0.43	1	Matched	6	394
+brca_dfci_2020	299_T1	299_T1	Lung	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	42	BRCA	2.92	0.72	1	Matched	1.4	92
+brca_dfci_2020	303_T1	303_T1	Skin	Progression	Positive	Negative	Intrinsic Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	134	BRCA	1.81	0.28	1	Matched	4.466666667	77
+brca_dfci_2020	306_T1	306_T1	Breast	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	35	BRCA	2.35	0.64	1	Matched	1.166666667	1052
+brca_dfci_2020	307_T1	307_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	100	BRCA	3.51	0.86	1	Matched	3.333333333	84
+brca_dfci_2020	314_T1	314_T1	Chest Wall	Response	Positive	Equivocal	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	33	BRCA	1.95	0.69	1	Matched	1.1	1044
+brca_dfci_2020	315_T1	315_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	50	BRCA	1.95	0.7	1	Matched	1.666666667	101
+brca_dfci_2020	327_T1	327_T1	Liver	Response	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	42	BRCA	1.78	0.67	1	Matched	1.4	316
+brca_dfci_2020	329_T1	329_T1	Bone	Progression	Positive	Negative	Intrinsic Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	26	BRCA	3.88	0.11	1	Matched	0.866666667	119
+brca_dfci_2020	330_T1	330_T1	Breast	Stable	Negative	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	34	BRCA	1.97	0.46	1	Matched	1.133333333	153
+brca_dfci_2020	331_T1	331_T1	Liver	Response	Negative	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	386	BRCA	2	0.59	1	Matched	12.8	183
+brca_dfci_2020	333_T1	333_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	77	BRCA	2.92	0.85	1	Matched	2.566666667	122
+brca_dfci_2020	338_T1	338_T1	Soft Tissue	Progression	Positive	Negative	Intrinsic Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	131	BRCA	1.96	0.45	1	Matched	4.366666667	98
+brca_dfci_2020	346_T1	346_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Equivocal	Breast Cancer	Invasive Breast Carcinoma	36	BRCA	3.6	0.77	1	Matched	1.2	103
+brca_dfci_2020	349_T1	349_T1	Liver	Stable	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	127	BRCA	1.92	0.62	1	Matched	4.233333333	272
+brca_dfci_2020	350_T1	350_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	45	BRCA	3.87	0.53	1	Matched	1.5	91
+brca_dfci_2020	357_T1	357_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	27	BRCA	3.05	0.44	1	Matched	0.9	70
+brca_dfci_2020	358_T1	358_T1	Liver	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	39	BRCA	1.99	0.82	1	Matched	1.3	858
+brca_dfci_2020	361_T1	361_T1	Bone	Stable	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	34	BRCA	2.1	0.58	1	Matched	1.133333333	346
+brca_dfci_2020	366_T2	366_T2	Chest Wall	Response	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	2657	BRCA	3.34	0.32	1	Matched	88.53333333	255
+brca_dfci_2020	372_T1	372_T1	Bone	Stable	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	25	BRCA	2.18	0.15	1	Matched	0.833333333	817
+brca_dfci_2020	376_T2	376_T2	Breast	Response	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	32	BRCA	2.04	0.67	1	Matched	1.066666667	588
+brca_dfci_2020	381_T1	381_T1	Liver	Stable	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	69	BRCA	2.22	0.42	1	Matched	2.3	426
+brca_dfci_2020	383_T1	383_T1	Liver	Response	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	206	BRCA	2.96	0.47	1	Matched	6.866666667	476
+brca_dfci_2020	385_T1	385_T1	Liver	Response	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	75	BRCA	1.93	0.76	1	Matched	2.5	623
+brca_dfci_2020	386_T1	386_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Equivocal	Breast Cancer	Invasive Breast Carcinoma	198	BRCA	3.8	0.76	1	Matched	6.566666667	103
+brca_dfci_2020	387_T1	387_T1	Breast	Response	Positive	Equivocal	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	104	BRCA	3	0.63	1	Matched	3.466666667	825
+brca_dfci_2020	391_T1	391_T1	Liver	Progression	Negative	Positive	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	46	BRCA	1.89	0.15	1	Matched	1.5	43
+brca_dfci_2020	394_T2	394_T2	Bone	Progression	Equivocal	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	66	BRCA	1.78	0.42	1	Matched	2.2	137
+brca_dfci_2020	397_T1	397_T1	Other	Response	Positive	Negative	Acquired Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	100	BRCA	5.03	0.7	1	Matched	3.333333333	426
+brca_dfci_2020	398_T1	398_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	56	BRCA	1.86	0.7	1	Matched	1.866666667	121
+brca_dfci_2020	401_T1	401_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	184	BRCA	3.11	0.5	1	Matched	6.166666667	58
+brca_dfci_2020	408_T1A	408_T1A	Skin	Response	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	77	BRCA	1.99	0.25	1	Matched	2.566666667	272
+brca_dfci_2020	408_T1B	408_T1B	Skin	Response	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	70	BRCA	2.04	0.17	1	Matched	2.333333333	272
+brca_dfci_2020	430_T1	430_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	134	BRCA	1.8	0.42	1	Matched	4.466666667	52
+brca_dfci_2020	434_T1	434_T1	Other	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	90	BRCA	2.05	0.92	1	Matched	3	700
+brca_dfci_2020	452_T2	452_T2	Breast	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	37	BRCA	3.71	0.42	1	Matched	1.233333333	160
+brca_dfci_2020	459_Archival1	459_Archival1	Bone	Stable	Positive	Unknown	Intrinsic Resistance	Unknown	Breast Cancer	Invasive Breast Carcinoma	247	BRCA	2.17	0.35	1	Matched	8.233333333	157
+brca_dfci_2020	473_T1	473_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	140	BRCA	3.2	0.33	1	Matched	4.666666667	406
+brca_dfci_2020	496_T1	496_T1	Liver	Stable	Positive	Negative	Acquired Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	78	BRCA	2.3	0.94	1	Matched	2.6	271
+brca_dfci_2020	509_T1	509_T1	Bone	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	78	BRCA	2.05	0.38	1	Matched	2.6	235
+brca_dfci_2020	515_T1	515_T1	Bone	Stable	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	23	BRCA	3.83	0.51	1	Matched	0.8	392
+brca_dfci_2020	516_T1	516_T1	Liver	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	47	BRCA	1.94	0.36	1	Matched	1.566666667	588
+brca_dfci_2020	532_T1	532_T1	Liver	Response	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	519	BRCA	3.55	0.64	1	Matched	17.3	564
+brca_dfci_2020	535_T1	535_T1	Liver	Progression	Positive	Negative	Intrinsic Resistance	Positive	Breast Cancer	Invasive Breast Carcinoma	31	BRCA	1.87	0.73	1	Matched	1.033333333	78
+brca_dfci_2020	538_T1	538_T1	Bone	Progression	Positive	Negative	Intrinsic Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	76	BRCA	1.81	0.47	1	Matched	2.533333333	120
+brca_dfci_2020	552_T1	552_T1	Bone	Stable	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	26	BRCA	3.19	0.33	1	Matched	0.866666667	489
+brca_dfci_2020	567_T1	567_T1	Bone	Response	Positive	Negative	Sensitive	Positive	Breast Cancer	Invasive Breast Carcinoma	38	BRCA	1.97	0.66	1	Matched	1.266666667	380
+brca_dfci_2020	568_T1	568_T1	Liver	Response	Positive	Negative	Acquired Resistance	Equivocal	Breast Cancer	Invasive Breast Carcinoma	119	BRCA	2.07	0.66	1	Matched	3.966666667	330
+brca_dfci_2020	606_T1	606_T1	Chest Wall	Stable	Positive	Negative	Acquired Resistance	Negative	Breast Cancer	Invasive Breast Carcinoma	106	BRCA	2.18	0.71	1	Matched	3.533333333	271
+brca_dfci_2020	614_T1	614_T1	Liver	Stable	Positive	Negative	Sensitive	Negative	Breast Cancer	Invasive Breast Carcinoma	30	BRCA	1.98	0.89	1	Matched	1	366

@@ -1,0 +1,6 @@
+Study ID	Patient ID	Sample ID	Cancer Type	Cancer Type Detailed	ER	Fraction Genome Altered	Grade	HER2	Mutation Count	Oncotree Code	Number of Samples Per Patient	TMB (nonsynonymous)	Tumor_size
+brca_jup_msk_2020	JuP1	JuP1	Breast Cancer	Invasive Breast Carcinoma	NA	0	NA	NA	6	BRCA	1	0.2	NA
+brca_jup_msk_2020	JuP2	JuP2	Breast Cancer	Invasive Breast Carcinoma	NA	0.0021	NA	NA	18	BRCA	1	0.6	NA
+brca_jup_msk_2020	JuP3	JuP3-DCIS	Breast Cancer	Invasive Breast Carcinoma	+	0.1644	2	NA	42	BRCA	3	1.4	NA
+brca_jup_msk_2020	JuP3	JuP3-IDC	Breast Cancer	Invasive Breast Carcinoma	+	0.1675	2	-	35	BRCA	3	1.166666667	1.5
+brca_jup_msk_2020	JuP3	JuP3-JP	Breast Cancer	Invasive Breast Carcinoma	NA	0.0070	NA	NA	3	BRCA	3	0.1	NA

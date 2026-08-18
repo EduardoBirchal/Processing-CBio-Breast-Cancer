@@ -1,0 +1,18 @@
+Study ID	Patient ID	Sample ID	Cancer Type	Cancer Type Detailed	Patient Display Name	ER Status	Fraction Genome Altered	HER2 Status	Mutation Count	OncoTree Code	Number of Samples Per Patient	Somatic Status
+mixed_msk_tcga_2021	MSK-01	MSK-01	Breast Cancer	Breast Invasive Ductal Carcinoma	NA	Positive	0.3953	Negative	15	IDC	1	Matched
+mixed_msk_tcga_2021	MSK-02	MSK-02	Breast Cancer	Breast Invasive Ductal Carcinoma	NA	Positive	0.1699	Negative	2	IDC	1	Matched
+mixed_msk_tcga_2021	MSK-03	MSK-03	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NA	NA	0.0203	NA	7	HGSOC	1	Matched
+mixed_msk_tcga_2021	MSK-04	MSK-04	Renal Cell Carcinoma	Unclassified Renal Cell Carcinoma	NA	NA	0.2557	NA	8	URCC	1	Matched
+mixed_msk_tcga_2021	MSK-05	MSK-05	Gastrointestinal Neuroendocrine Tumor	High-Grade Neuroendocrine Carcinoma of the Colon and Rectum	NA	NA	0.0636	NA	10	HGNEC	1	Matched
+mixed_msk_tcga_2021	MSK-06	MSK-06	Esophagogastric Cancer	Adenocarcinoma of the Gastroesophageal Junction	NA	NA	0.0841	NA	176	GEJ	1	Matched
+mixed_msk_tcga_2021	MSK-07	MSK-07	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NA	NA	0.4993	NA	4	HGSOC	1	Matched
+mixed_msk_tcga_2021	MSK-08	MSK-08	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NA	NA	0.5807	NA	84	HGSOC	1	Matched
+mixed_msk_tcga_2021	MSK-09	MSK-09	Breast Cancer	Breast Invasive Ductal Carcinoma	NA	Negative	0.0178	Positive	6	IDC	1	Matched
+mixed_msk_tcga_2021	MSK-10	MSK-10	Breast Cancer	Breast Invasive Ductal Carcinoma	NA	Positive	0.5928	Negative	3	IDC	1	Matched
+mixed_msk_tcga_2021	MSK-11	MSK-11	Breast Cancer	Breast Invasive Ductal Carcinoma	NA	Positive	0.1104	Negative	3	IDC	1	Matched
+mixed_msk_tcga_2021	MSK-12	MSK-12	Ovarian Cancer	High-Grade Serous Ovarian Cancer	NA	NA	0.6378	NA	9	HGSOC	1	Matched
+mixed_msk_tcga_2021	MSK-13	MSK-13	Melanoma	Melanoma	NA	NA	0.2176	NA	50	MEL	1	Matched
+mixed_msk_tcga_2021	TCGA-A8-A06X	TCGA-A8-A06X-01	Breast Cancer	Breast Invasive Ductal Carcinoma	TCGA-01	NA	0.5090	NA	157	IDC	1	Matched
+mixed_msk_tcga_2021	TCGA-B5-A1N2	TCGA-B5-A1N2-01	Endometrial Cancer	Uterine Endometrioid Carcinoma	TCGA-02	NA	0.5407	NA	100	UEC	1	Matched
+mixed_msk_tcga_2021	TCGA-CD-A4MI	TCGA-CD-A4MI-01	Esophagogastric Cancer	Stomach Adenocarcinoma	TCGA-06	NA	0	NA	876	STAD	1	Matched
+mixed_msk_tcga_2021	TCGA-DD-A3A5	TCGA-DD-A3A5-01	Hepatobiliary Cancer	Hepatocellular Carcinoma	TCGA-05	NA	0.1555	NA	78	HCC	1	Matched
